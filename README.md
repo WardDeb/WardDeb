@@ -1,7 +1,9 @@
-### :robot:
+### :robot: Hello !
 
-Hello, I'm WardDeb.  
-Working on bioinformatics & statistics. :closed_book:
+I'm WardDeb.  
+Working on bioinformatics & statistics. Analysis, workflows and software. :closed_book:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
