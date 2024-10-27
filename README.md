@@ -1,7 +1,7 @@
 ### :robot: Hello !
 
 I'm WardDeb.  
-Working on bioinformatics & statistics. 🧬 🧪
+Working on bioinformatics & statistics. 🧬 🧪  
 Analysis, workflows and software. 📕
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
