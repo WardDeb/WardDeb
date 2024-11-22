@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/maxplanck-ie/BigRedButton/issues/98#issuecomment-2478602968) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
-2. 🔓 Reopened issue [#98](https://github.com/maxplanck-ie/BigRedButton/issues/98) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
-3. ❗ Opened issue [#1081](https://github.com/maxplanck-ie/snakepipes/issues/1081) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-4. 🗣 Commented on [#206](https://github.com/maxplanck-ie/dissectBCL/issues/206#issuecomment-2474662570) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-5. ❗ Opened issue [#206](https://github.com/maxplanck-ie/dissectBCL/issues/206) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+1. 💪 Opened PR [#1336](https://github.com/deeptools/deepTools/pull/1336) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🗣 Commented on [#98](https://github.com/maxplanck-ie/BigRedButton/issues/98#issuecomment-2478602968) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
+3. 🔓 Reopened issue [#98](https://github.com/maxplanck-ie/BigRedButton/issues/98) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
+4. ❗ Opened issue [#1081](https://github.com/maxplanck-ie/snakepipes/issues/1081) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+5. 🗣 Commented on [#206](https://github.com/maxplanck-ie/dissectBCL/issues/206#issuecomment-2474662570) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
 <!--END_SECTION:activity-->
 
