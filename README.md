@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1336](https://github.com/deeptools/deepTools/pull/1336) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-2. 🗣 Commented on [#1336](https://github.com/deeptools/deepTools/pull/1336#issuecomment-2490642412) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-3. 💪 Opened PR [#1336](https://github.com/deeptools/deepTools/pull/1336) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-4. 🗣 Commented on [#98](https://github.com/maxplanck-ie/BigRedButton/issues/98#issuecomment-2478602968) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
-5. 🔓 Reopened issue [#98](https://github.com/maxplanck-ie/BigRedButton/issues/98) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
+1. 🗣 Commented on [#1339](https://github.com/deeptools/deepTools/issues/1339#issuecomment-2495382397) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🎉 Merged PR [#1336](https://github.com/deeptools/deepTools/pull/1336) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+3. 🗣 Commented on [#1336](https://github.com/deeptools/deepTools/pull/1336#issuecomment-2490642412) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+4. 💪 Opened PR [#1336](https://github.com/deeptools/deepTools/pull/1336) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+5. 🗣 Commented on [#98](https://github.com/maxplanck-ie/BigRedButton/issues/98#issuecomment-2478602968) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
 <!--END_SECTION:activity-->
 
