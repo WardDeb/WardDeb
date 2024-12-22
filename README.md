@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#189](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/189) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. 🚀 Published release [v0.3.2](https://github.com/maxplanck-ie/dissectBCL/releases/tag/v0.3.2) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+1. ❗ Opened issue [#190](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/190) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+2. ❗ Opened issue [#189](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/189) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 3. 🚀 Published release [v0.3.2](https://github.com/maxplanck-ie/dissectBCL/releases/tag/v0.3.2) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-4. 💪 Opened PR [#214](https://github.com/maxplanck-ie/dissectBCL/pull/214) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-5. 🎉 Merged PR [#213](https://github.com/maxplanck-ie/dissectBCL/pull/213) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+4. 🚀 Published release [v0.3.2](https://github.com/maxplanck-ie/dissectBCL/releases/tag/v0.3.2) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+5. 💪 Opened PR [#214](https://github.com/maxplanck-ie/dissectBCL/pull/214) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
 <!--END_SECTION:activity-->
 
