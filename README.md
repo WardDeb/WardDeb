@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#192](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/192) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. ❗ Opened issue [#190](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/190) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-3. ❗ Opened issue [#189](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/189) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. 🚀 Published release [v0.3.2](https://github.com/maxplanck-ie/dissectBCL/releases/tag/v0.3.2) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-5. 🚀 Published release [v0.3.2](https://github.com/maxplanck-ie/dissectBCL/releases/tag/v0.3.2) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+1. 🗣 Commented on [#190](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/190#issuecomment-2577021951) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+2. ❗ Opened issue [#193](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/193) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+3. 🗣 Commented on [#1084](https://github.com/maxplanck-ie/snakepipes/issues/1084#issuecomment-2576999120) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+4. ❗ Opened issue [#192](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/192) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5. ❗ Opened issue [#190](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/190) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 <!--END_SECTION:activity-->
 
