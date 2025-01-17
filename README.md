@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/195#issuecomment-2598367993) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. 🗣 Commented on [#196](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/196#issuecomment-2598366182) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-3. 🗣 Commented on [#1351](https://github.com/deeptools/deepTools/issues/1351#issuecomment-2597746086) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-4. 🗣 Commented on [#1351](https://github.com/deeptools/deepTools/issues/1351#issuecomment-2589282430) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-5. 🎉 Merged PR [#191](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/191) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. 🎉 Merged PR [#1352](https://github.com/deeptools/deepTools/pull/1352) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 💪 Opened PR [#1352](https://github.com/deeptools/deepTools/pull/1352) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+3. 🗣 Commented on [#195](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/195#issuecomment-2598367993) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+4. 🗣 Commented on [#196](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/196#issuecomment-2598366182) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5. 🗣 Commented on [#1351](https://github.com/deeptools/deepTools/issues/1351#issuecomment-2597746086) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
 <!--END_SECTION:activity-->
 
