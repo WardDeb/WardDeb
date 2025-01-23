@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1366](https://github.com/deeptools/deepTools/pull/1366) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-2. 🎉 Merged PR [#1367](https://github.com/deeptools/deepTools/pull/1367) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-3. 🎉 Merged PR [#1368](https://github.com/deeptools/deepTools/pull/1368) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-4. ❗ Opened issue [#215](https://github.com/maxplanck-ie/dissectBCL/issues/215) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-5. ❗ Opened issue [#201](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/201) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. 🎉 Merged PR [#1365](https://github.com/deeptools/deepTools/pull/1365) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🎉 Merged PR [#1364](https://github.com/deeptools/deepTools/pull/1364) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+3. 🎉 Merged PR [#1366](https://github.com/deeptools/deepTools/pull/1366) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+4. 🎉 Merged PR [#1367](https://github.com/deeptools/deepTools/pull/1367) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+5. 🎉 Merged PR [#1368](https://github.com/deeptools/deepTools/pull/1368) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
 <!--END_SECTION:activity-->
 
