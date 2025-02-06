@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1380](https://github.com/deeptools/deepTools/pull/1380) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-2. 💪 Opened PR [#1380](https://github.com/deeptools/deepTools/pull/1380) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-3. 🎉 Merged PR [#1379](https://github.com/deeptools/deepTools/pull/1379) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-4. 💪 Opened PR [#1379](https://github.com/deeptools/deepTools/pull/1379) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-5. 🎉 Merged PR [#1376](https://github.com/deeptools/deepTools/pull/1376) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🎉 Merged PR [#1092](https://github.com/maxplanck-ie/snakepipes/pull/1092) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+2. 🎉 Merged PR [#1380](https://github.com/deeptools/deepTools/pull/1380) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+3. 💪 Opened PR [#1380](https://github.com/deeptools/deepTools/pull/1380) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+4. 🎉 Merged PR [#1379](https://github.com/deeptools/deepTools/pull/1379) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+5. 💪 Opened PR [#1379](https://github.com/deeptools/deepTools/pull/1379) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
 <!--END_SECTION:activity-->
 
