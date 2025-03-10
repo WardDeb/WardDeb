@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3354](https://github.com/snakemake/snakemake/issues/3354) in [snakemake/snakemake](https://github.com/snakemake/snakemake)
-2. 🎉 Merged PR [#27](https://github.com/maxplanck-ie/ATACofthesnake/pull/27) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-3. 💪 Opened PR [#27](https://github.com/maxplanck-ie/ATACofthesnake/pull/27) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-4. 🗣 Commented on [#1385](https://github.com/deeptools/deepTools/issues/1385#issuecomment-2701337028) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-5. 🗣 Commented on [#1384](https://github.com/deeptools/deepTools/issues/1384#issuecomment-2696812059) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🗣 Commented on [#3330](https://github.com/snakemake/snakemake/issues/3330#issuecomment-2710871715) in [snakemake/snakemake](https://github.com/snakemake/snakemake)
+2. ❗ Opened issue [#3354](https://github.com/snakemake/snakemake/issues/3354) in [snakemake/snakemake](https://github.com/snakemake/snakemake)
+3. 🎉 Merged PR [#27](https://github.com/maxplanck-ie/ATACofthesnake/pull/27) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+4. 💪 Opened PR [#27](https://github.com/maxplanck-ie/ATACofthesnake/pull/27) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+5. 🗣 Commented on [#1385](https://github.com/deeptools/deepTools/issues/1385#issuecomment-2701337028) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
 <!--END_SECTION:activity-->
 
