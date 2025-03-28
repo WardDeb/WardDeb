@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/maxplanck-ie/ATACofthesnake/pull/29) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-2. 💪 Opened PR [#29](https://github.com/maxplanck-ie/ATACofthesnake/pull/29) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-3. 🎉 Merged PR [#28](https://github.com/maxplanck-ie/ATACofthesnake/pull/28) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-4. 💪 Opened PR [#28](https://github.com/maxplanck-ie/ATACofthesnake/pull/28) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-5. 💪 Opened PR [#1389](https://github.com/deeptools/deepTools/pull/1389) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🎉 Merged PR [#12](https://github.com/WardDeb/data_viz_kul/pull/12) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
+2. 💪 Opened PR [#12](https://github.com/WardDeb/data_viz_kul/pull/12) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
+3. 🎉 Merged PR [#29](https://github.com/maxplanck-ie/ATACofthesnake/pull/29) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+4. 💪 Opened PR [#29](https://github.com/maxplanck-ie/ATACofthesnake/pull/29) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+5. 🎉 Merged PR [#28](https://github.com/maxplanck-ie/ATACofthesnake/pull/28) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 <!--END_SECTION:activity-->
 
