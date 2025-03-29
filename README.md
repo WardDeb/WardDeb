@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/WardDeb/data_viz_kul/pull/13) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
-2. 💪 Opened PR [#13](https://github.com/WardDeb/data_viz_kul/pull/13) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
-3. 🎉 Merged PR [#12](https://github.com/WardDeb/data_viz_kul/pull/12) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
-4. 💪 Opened PR [#12](https://github.com/WardDeb/data_viz_kul/pull/12) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
-5. 🎉 Merged PR [#29](https://github.com/maxplanck-ie/ATACofthesnake/pull/29) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+1. 🎉 Merged PR [#14](https://github.com/WardDeb/data_viz_kul/pull/14) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
+2. 💪 Opened PR [#14](https://github.com/WardDeb/data_viz_kul/pull/14) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
+3. 🎉 Merged PR [#13](https://github.com/WardDeb/data_viz_kul/pull/13) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
+4. 💪 Opened PR [#13](https://github.com/WardDeb/data_viz_kul/pull/13) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
+5. 🎉 Merged PR [#12](https://github.com/WardDeb/data_viz_kul/pull/12) in [WardDeb/data_viz_kul](https://github.com/WardDeb/data_viz_kul)
 <!--END_SECTION:activity-->
 
