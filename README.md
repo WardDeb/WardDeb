@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1389](https://github.com/deeptools/deepTools/pull/1389) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-2. 🗣 Commented on [#108](https://github.com/maxplanck-ie/Rdeseq2/issues/108#issuecomment-2775016955) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
-3. 🔒 Closed issue [#108](https://github.com/maxplanck-ie/Rdeseq2/issues/108) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
-4. 💪 Opened PR [#112](https://github.com/maxplanck-ie/Rdeseq2/pull/112) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
-5. 🎉 Merged PR [#1387](https://github.com/deeptools/deepTools/pull/1387) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🎉 Merged PR [#1391](https://github.com/deeptools/deepTools/pull/1391) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 💪 Opened PR [#1391](https://github.com/deeptools/deepTools/pull/1391) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+3. 🎉 Merged PR [#1389](https://github.com/deeptools/deepTools/pull/1389) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+4. 🗣 Commented on [#108](https://github.com/maxplanck-ie/Rdeseq2/issues/108#issuecomment-2775016955) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
+5. 🔒 Closed issue [#108](https://github.com/maxplanck-ie/Rdeseq2/issues/108) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
 <!--END_SECTION:activity-->
 
