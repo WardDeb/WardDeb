@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-2. 💪 Opened PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-3. 🎉 Merged PR [#1399](https://github.com/deeptools/deepTools/pull/1399) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-4. 💪 Opened PR [#1399](https://github.com/deeptools/deepTools/pull/1399) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-5. 🎉 Merged PR [#1398](https://github.com/deeptools/deepTools/pull/1398) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. ❗ Opened issue [#4](https://github.com/WardDeb/linkapy/issues/4) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+2. 🎉 Merged PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+3. 💪 Opened PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+4. 🎉 Merged PR [#1399](https://github.com/deeptools/deepTools/pull/1399) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+5. 💪 Opened PR [#1399](https://github.com/deeptools/deepTools/pull/1399) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
 <!--END_SECTION:activity-->
 
