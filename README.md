@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/WardDeb/linkapy/issues/4) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-2. 🎉 Merged PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-3. 💪 Opened PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-4. 🎉 Merged PR [#1399](https://github.com/deeptools/deepTools/pull/1399) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-5. 💪 Opened PR [#1399](https://github.com/deeptools/deepTools/pull/1399) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 💪 Opened PR [#113](https://github.com/maxplanck-ie/Rdeseq2/pull/113) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
+2. 🔒 Closed issue [#89](https://github.com/maxplanck-ie/Rdeseq2/issues/89) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
+3. ❗ Opened issue [#4](https://github.com/WardDeb/linkapy/issues/4) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+4. 🎉 Merged PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+5. 💪 Opened PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
 <!--END_SECTION:activity-->
 
