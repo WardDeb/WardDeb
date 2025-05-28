@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#114](https://github.com/maxplanck-ie/Rdeseq2/issues/114) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
-2. 💪 Opened PR [#113](https://github.com/maxplanck-ie/Rdeseq2/pull/113) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
-3. 🔒 Closed issue [#89](https://github.com/maxplanck-ie/Rdeseq2/issues/89) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
-4. ❗ Opened issue [#4](https://github.com/WardDeb/linkapy/issues/4) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-5. 🎉 Merged PR [#3](https://github.com/WardDeb/linkapy/pull/3) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+1. 🗣 Commented on [#106](https://github.com/maxplanck-ie/BigRedButton/issues/106#issuecomment-2915672081) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
+2. ❗ Opened issue [#114](https://github.com/maxplanck-ie/Rdeseq2/issues/114) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
+3. 💪 Opened PR [#113](https://github.com/maxplanck-ie/Rdeseq2/pull/113) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
+4. 🔒 Closed issue [#89](https://github.com/maxplanck-ie/Rdeseq2/issues/89) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
+5. ❗ Opened issue [#4](https://github.com/WardDeb/linkapy/issues/4) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
 <!--END_SECTION:activity-->
 
