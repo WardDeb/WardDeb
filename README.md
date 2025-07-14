@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#221](https://github.com/maxplanck-ie/dissectBCL/issues/221) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-2. ❗ Opened issue [#220](https://github.com/maxplanck-ie/dissectBCL/issues/220) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-3. 🗣 Commented on [#110](https://github.com/maxplanck-ie/BigRedButton/issues/110#issuecomment-3008582808) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
-4. 🗣 Commented on [#110](https://github.com/maxplanck-ie/BigRedButton/issues/110#issuecomment-3008407357) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
-5. 🔒 Closed issue [#89](https://github.com/maxplanck-ie/Rdeseq2/issues/89) in [maxplanck-ie/Rdeseq2](https://github.com/maxplanck-ie/Rdeseq2)
+1. 🎉 Merged PR [#222](https://github.com/maxplanck-ie/dissectBCL/pull/222) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+2. 💪 Opened PR [#222](https://github.com/maxplanck-ie/dissectBCL/pull/222) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+3. ❗ Opened issue [#221](https://github.com/maxplanck-ie/dissectBCL/issues/221) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+4. ❗ Opened issue [#220](https://github.com/maxplanck-ie/dissectBCL/issues/220) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+5. 🗣 Commented on [#110](https://github.com/maxplanck-ie/BigRedButton/issues/110#issuecomment-3008582808) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
 <!--END_SECTION:activity-->
 
