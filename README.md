@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com/maxplanck-ie/dissectBCL/pull/231) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-2. 💪 Opened PR [#231](https://github.com/maxplanck-ie/dissectBCL/pull/231) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-3. 🎉 Merged PR [#230](https://github.com/maxplanck-ie/dissectBCL/pull/230) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-4. 💪 Opened PR [#230](https://github.com/maxplanck-ie/dissectBCL/pull/230) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-5. 🗣 Commented on [#225](https://github.com/maxplanck-ie/dissectBCL/issues/225#issuecomment-3079185639) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+1. 🎉 Merged PR [#232](https://github.com/maxplanck-ie/dissectBCL/pull/232) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+2. 💪 Opened PR [#232](https://github.com/maxplanck-ie/dissectBCL/pull/232) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+3. 🎉 Merged PR [#231](https://github.com/maxplanck-ie/dissectBCL/pull/231) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+4. 💪 Opened PR [#231](https://github.com/maxplanck-ie/dissectBCL/pull/231) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+5. 🎉 Merged PR [#230](https://github.com/maxplanck-ie/dissectBCL/pull/230) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
 <!--END_SECTION:activity-->
 
