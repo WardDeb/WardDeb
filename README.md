@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/WardDeb/linkapy/pull/6) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-2. 🎉 Merged PR [#5](https://github.com/WardDeb/linkapy/pull/5) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-3. 💪 Opened PR [#5](https://github.com/WardDeb/linkapy/pull/5) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-4. 🎉 Merged PR [#238](https://github.com/maxplanck-ie/dissectBCL/pull/238) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-5. ❗ Opened issue [#239](https://github.com/maxplanck-ie/dissectBCL/issues/239) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+1. 🗣 Commented on [#6](https://github.com/WardDeb/linkapy/pull/6#issuecomment-3121587113) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+2. 🚀 Published release [v1.0.0](https://github.com/WardDeb/linkapy/releases/tag/v1.0.0) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+3. 🎉 Merged PR [#6](https://github.com/WardDeb/linkapy/pull/6) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+4. 💪 Opened PR [#6](https://github.com/WardDeb/linkapy/pull/6) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+5. 🎉 Merged PR [#5](https://github.com/WardDeb/linkapy/pull/5) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
 <!--END_SECTION:activity-->
 
