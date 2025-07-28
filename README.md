@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1107](https://github.com/maxplanck-ie/snakepipes/pull/1107) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-2. 🗣 Commented on [#6](https://github.com/WardDeb/linkapy/pull/6#issuecomment-3121587113) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-3. 🚀 Published release [v1.0.0](https://github.com/WardDeb/linkapy/releases/tag/v1.0.0) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-4. 🎉 Merged PR [#6](https://github.com/WardDeb/linkapy/pull/6) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-5. 💪 Opened PR [#6](https://github.com/WardDeb/linkapy/pull/6) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+1. ❗ Opened issue [#1108](https://github.com/maxplanck-ie/snakepipes/issues/1108) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+2. 💪 Opened PR [#1107](https://github.com/maxplanck-ie/snakepipes/pull/1107) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+3. 🗣 Commented on [#6](https://github.com/WardDeb/linkapy/pull/6#issuecomment-3121587113) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+4. 🚀 Published release [v1.0.0](https://github.com/WardDeb/linkapy/releases/tag/v1.0.0) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+5. 🎉 Merged PR [#6](https://github.com/WardDeb/linkapy/pull/6) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
 <!--END_SECTION:activity-->
 
