@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1111](https://github.com/maxplanck-ie/snakepipes/pull/1111) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-2. 🎉 Merged PR [#1112](https://github.com/maxplanck-ie/snakepipes/pull/1112) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-3. 💪 Opened PR [#1112](https://github.com/maxplanck-ie/snakepipes/pull/1112) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-4. 🎉 Merged PR [#1107](https://github.com/maxplanck-ie/snakepipes/pull/1107) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-5. ❗ Opened issue [#1108](https://github.com/maxplanck-ie/snakepipes/issues/1108) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+1. 🔒 Closed issue [#1](https://github.com/WardDeb/pudding/issues/1) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+2. 🔒 Closed issue [#3](https://github.com/WardDeb/pudding/issues/3) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+3. 🎉 Merged PR [#1111](https://github.com/maxplanck-ie/snakepipes/pull/1111) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+4. 🎉 Merged PR [#1112](https://github.com/maxplanck-ie/snakepipes/pull/1112) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+5. 💪 Opened PR [#1112](https://github.com/maxplanck-ie/snakepipes/pull/1112) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
 <!--END_SECTION:activity-->
 
