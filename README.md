@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/WardDeb/pudding/issues/1) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
-2. 🔒 Closed issue [#3](https://github.com/WardDeb/pudding/issues/3) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
-3. 🎉 Merged PR [#1111](https://github.com/maxplanck-ie/snakepipes/pull/1111) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-4. 🎉 Merged PR [#1112](https://github.com/maxplanck-ie/snakepipes/pull/1112) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-5. 💪 Opened PR [#1112](https://github.com/maxplanck-ie/snakepipes/pull/1112) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+1. 🎉 Merged PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+2. 💪 Opened PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+3. 🔒 Closed issue [#1](https://github.com/WardDeb/pudding/issues/1) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+4. 🔒 Closed issue [#3](https://github.com/WardDeb/pudding/issues/3) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+5. 🎉 Merged PR [#1111](https://github.com/maxplanck-ie/snakepipes/pull/1111) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
 <!--END_SECTION:activity-->
 
