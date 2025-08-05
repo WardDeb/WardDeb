@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/WardDeb/pudding/issues/4) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
-2. ❗ Opened issue [#4](https://github.com/qgenlab/DiffMethylTools/issues/4) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
-3. 🎉 Merged PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-4. 💪 Opened PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-5. 🔒 Closed issue [#1](https://github.com/WardDeb/pudding/issues/1) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+1. 🗣 Commented on [#4](https://github.com/qgenlab/DiffMethylTools/issues/4#issuecomment-3153554891) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
+2. ❗ Opened issue [#4](https://github.com/WardDeb/pudding/issues/4) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+3. ❗ Opened issue [#4](https://github.com/qgenlab/DiffMethylTools/issues/4) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
+4. 🎉 Merged PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+5. 💪 Opened PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 <!--END_SECTION:activity-->
 
