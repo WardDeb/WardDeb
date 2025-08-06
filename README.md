@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/qgenlab/DiffMethylTools/issues/4#issuecomment-3153554891) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
-2. ❗ Opened issue [#4](https://github.com/WardDeb/pudding/issues/4) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
-3. ❗ Opened issue [#4](https://github.com/qgenlab/DiffMethylTools/issues/4) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
-4. 🎉 Merged PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-5. 💪 Opened PR [#31](https://github.com/maxplanck-ie/ATACofthesnake/pull/31) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+1. ❗ Opened issue [#242](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/242) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+2. ❗ Opened issue [#241](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/241) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+3. 🗣 Commented on [#4](https://github.com/qgenlab/DiffMethylTools/issues/4#issuecomment-3153554891) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
+4. ❗ Opened issue [#4](https://github.com/WardDeb/pudding/issues/4) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+5. ❗ Opened issue [#4](https://github.com/qgenlab/DiffMethylTools/issues/4) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
 <!--END_SECTION:activity-->
 
