@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#244](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/244) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. 🗣 Commented on [#4](https://github.com/qgenlab/DiffMethylTools/issues/4#issuecomment-3157748095) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
-3. 💪 Opened PR [#243](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/243) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. ❗ Opened issue [#242](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/242) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. ❗ Opened issue [#241](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/241) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. 🗣 Commented on [#4](https://github.com/qgenlab/DiffMethylTools/issues/4#issuecomment-3161161386) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
+2. ❗ Opened issue [#244](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/244) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+3. 🗣 Commented on [#4](https://github.com/qgenlab/DiffMethylTools/issues/4#issuecomment-3157748095) in [qgenlab/DiffMethylTools](https://github.com/qgenlab/DiffMethylTools)
+4. 💪 Opened PR [#243](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/243) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5. ❗ Opened issue [#242](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/242) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 <!--END_SECTION:activity-->
 
