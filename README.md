@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#249](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/249) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. ❗ Opened issue [#248](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/248) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-3. ❗ Opened issue [#247](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/247) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. 🚀 Published release [v4.0.0](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/releases/tag/v4.0.0) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. 🔒 Closed issue [#244](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/244) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. 🗣 Commented on [#248](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/248#issuecomment-3170322643) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+2. 🔒 Closed issue [#248](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/248) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+3. 🎉 Merged PR [#250](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/250) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+4. 💪 Opened PR [#250](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/250) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5. ❗ Opened issue [#249](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/249) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 <!--END_SECTION:activity-->
 
