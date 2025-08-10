@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/248#issuecomment-3170322643) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. 🔒 Closed issue [#248](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/248) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-3. 🎉 Merged PR [#250](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/250) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. 💪 Opened PR [#250](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/250) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. ❗ Opened issue [#249](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/249) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. 🔒 Closed issue [#4](https://github.com/WardDeb/pudding/issues/4) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+2. 🗣 Commented on [#5](https://github.com/WardDeb/pudding/issues/5#issuecomment-3172405970) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+3. 🔒 Closed issue [#5](https://github.com/WardDeb/pudding/issues/5) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+4. 🗣 Commented on [#248](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/248#issuecomment-3170322643) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5. 🔒 Closed issue [#248](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/248) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 <!--END_SECTION:activity-->
 
