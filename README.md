@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#257](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/257) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. 🚀 Published release [v4.1.0](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/releases/tag/v4.1.0) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-3. 🔒 Closed issue [#241](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/241) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. 🔒 Closed issue [#245](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/245) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. 🔒 Closed issue [#145](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/145) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. 🎉 Merged PR [#259](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/259) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+2. 💪 Opened PR [#259](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/259) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+3. 🎉 Merged PR [#258](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/258) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+4. 💪 Opened PR [#258](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/258) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5. 🎉 Merged PR [#257](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/257) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 <!--END_SECTION:activity-->
 
