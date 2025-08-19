@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/WardDeb/linkapy/issues/15) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-2. ❗ Opened issue [#14](https://github.com/WardDeb/linkapy/issues/14) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-3. 🗣 Commented on [#262](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/262#issuecomment-3184930316) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. 🚀 Published release [v4.2.0](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/releases/tag/v4.2.0) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. 🎉 Merged PR [#262](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/262) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. ❗ Opened issue [#18](https://github.com/WardDeb/linkapy/issues/18) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+2. ❗ Opened issue [#17](https://github.com/WardDeb/linkapy/issues/17) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+3. ❗ Opened issue [#16](https://github.com/WardDeb/linkapy/issues/16) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+4. ❗ Opened issue [#15](https://github.com/WardDeb/linkapy/issues/15) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+5. ❗ Opened issue [#14](https://github.com/WardDeb/linkapy/issues/14) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
 <!--END_SECTION:activity-->
 
