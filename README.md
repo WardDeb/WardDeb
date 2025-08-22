@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/WardDeb/linkapy/issues/16#issuecomment-3211236912) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-2. 🔒 Closed issue [#16](https://github.com/WardDeb/linkapy/issues/16) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-3. 🎉 Merged PR [#13](https://github.com/WardDeb/linkapy/pull/13) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-4. ❗ Opened issue [#18](https://github.com/WardDeb/linkapy/issues/18) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
-5. ❗ Opened issue [#17](https://github.com/WardDeb/linkapy/issues/17) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+1. 💪 Opened PR [#19](https://github.com/WardDeb/linkapy/pull/19) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+2. 🗣 Commented on [#16](https://github.com/WardDeb/linkapy/issues/16#issuecomment-3211236912) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+3. 🔒 Closed issue [#16](https://github.com/WardDeb/linkapy/issues/16) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+4. 🎉 Merged PR [#13](https://github.com/WardDeb/linkapy/pull/13) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
+5. ❗ Opened issue [#18](https://github.com/WardDeb/linkapy/issues/18) in [WardDeb/linkapy](https://github.com/WardDeb/linkapy)
 <!--END_SECTION:activity-->
 
