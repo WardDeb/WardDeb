@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/28) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-2. 🎉 Merged PR [#2](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/2) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
-3. 💪 Opened PR [#2](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/2) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
-4. 🎉 Merged PR [#1](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/1) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
-5. 💪 Opened PR [#1](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/1) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
+1. 🎉 Merged PR [#28](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/28) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+2. 💪 Opened PR [#28](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/28) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+3. 🎉 Merged PR [#2](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/2) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
+4. 💪 Opened PR [#2](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/2) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
+5. 🎉 Merged PR [#1](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/1) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
 <!--END_SECTION:activity-->
 
