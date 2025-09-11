@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/28) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-2. 💪 Opened PR [#28](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/28) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-3. 🎉 Merged PR [#2](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/2) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
-4. 💪 Opened PR [#2](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/2) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
-5. 🎉 Merged PR [#1](https://github.com/WardDeb/FunctionalHomologyWorkshop/pull/1) in [WardDeb/FunctionalHomologyWorkshop](https://github.com/WardDeb/FunctionalHomologyWorkshop)
+1. 💪 Opened PR [#32](undefined) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+2. ❗ Opened issue [#272](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/272) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+3. 🔒 Closed issue [#30](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/30) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+4. 🗣 Commented on [#30](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/30#issuecomment-3274315951) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+5. 💪 Opened PR [#31](undefined) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
 <!--END_SECTION:activity-->
 
