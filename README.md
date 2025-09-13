@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/34) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-2. ❗ Opened issue [#33](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/33) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-3. 🔒 Closed issue [#14](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/14) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-4. 🎉 Merged PR [#32](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/32) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-5. 🎉 Merged PR [#28](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/28) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+1. 💪 Opened PR [#35](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/35) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+2. ❗ Opened issue [#34](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/34) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+3. ❗ Opened issue [#33](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/33) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+4. 🔒 Closed issue [#14](https://github.com/FunctionalEpigeneticsLab/linkapy/issues/14) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+5. 🎉 Merged PR [#32](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/32) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
 <!--END_SECTION:activity-->
 
