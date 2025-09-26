@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/WardDeb/pudding/issues/7) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
-2. 🗣 Commented on [#44](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/44#issuecomment-3311992809) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-3. 🚀 Published release [v1.5.0](https://github.com/FunctionalEpigeneticsLab/linkapy/releases/tag/v1.5.0) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-4. 🎉 Merged PR [#44](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/44) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
-5. 💪 Opened PR [#44](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/44) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
+1. 🔒 Closed issue [#7](https://github.com/WardDeb/pudding/issues/7) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+2. 🗣 Commented on [#6](https://github.com/WardDeb/pudding/issues/6#issuecomment-3338296054) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+3. 🔒 Closed issue [#6](https://github.com/WardDeb/pudding/issues/6) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+4. ❗ Opened issue [#7](https://github.com/WardDeb/pudding/issues/7) in [WardDeb/pudding](https://github.com/WardDeb/pudding)
+5. 🗣 Commented on [#44](https://github.com/FunctionalEpigeneticsLab/linkapy/pull/44#issuecomment-3311992809) in [FunctionalEpigeneticsLab/linkapy](https://github.com/FunctionalEpigeneticsLab/linkapy)
 <!--END_SECTION:activity-->
 
