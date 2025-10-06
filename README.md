@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#246](https://github.com/maxplanck-ie/dissectBCL/pull/246) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-2. 💪 Opened PR [#246](https://github.com/maxplanck-ie/dissectBCL/pull/246) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-3. 🗣 Commented on [#276](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/276#issuecomment-3352449235) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. 🚀 Published release [v4.4.0](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/releases/tag/v4.4.0) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. 🎉 Merged PR [#276](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/pull/276) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. ❗ Opened issue [#32](https://github.com/maxplanck-ie/ATACofthesnake/issues/32) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+2. 🎉 Merged PR [#112](https://github.com/maxplanck-ie/BigRedButton/pull/112) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
+3. 💪 Opened PR [#112](https://github.com/maxplanck-ie/BigRedButton/pull/112) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
+4. 🎉 Merged PR [#246](https://github.com/maxplanck-ie/dissectBCL/pull/246) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+5. 💪 Opened PR [#246](https://github.com/maxplanck-ie/dissectBCL/pull/246) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
 <!--END_SECTION:activity-->
 
