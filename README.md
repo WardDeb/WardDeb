@@ -12,7 +12,7 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#46](https://github.com/linkapy/linkapy/issues/46) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
+1. ❗ Opened issue [#47](https://github.com/linkapy/linkapy/issues/47) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
 2. ❗ Opened issue [#45](https://github.com/linkapy/linkapy/issues/45) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
 3. 💪 Opened PR [#252](undefined) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
 4. 🔒 Closed issue [#245](https://github.com/maxplanck-ie/dissectBCL/issues/245) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
