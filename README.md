@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#279](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/279) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-2. ❗ Opened issue [#279](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/279) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-3.  Assigned issue [#278](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/278) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. ❗ Opened issue [#278](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/278) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. ❗ Opened issue [#50](https://github.com/linkapy/linkapy/issues/50) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
+1.  Assigned issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+2. ❗ Opened issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+3.  Assigned issue [#279](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/279) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+4. ❗ Opened issue [#279](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/279) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5.  Assigned issue [#278](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/278) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 <!--END_SECTION:activity-->
 
