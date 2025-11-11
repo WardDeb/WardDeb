@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#535](undefined) in [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
-2. ❌ Closed PR [#283](undefined) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-3.  Assigned issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4. ❗ Opened issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5.  Assigned issue [#279](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/279) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. ❗ Opened issue [#254](https://github.com/maxplanck-ie/dissectBCL/issues/254) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
+2. 💪 Opened PR [#535](undefined) in [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
+3. ❌ Closed PR [#283](undefined) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+4.  Assigned issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+5. ❗ Opened issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
 <!--END_SECTION:activity-->
 
