@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#254](https://github.com/maxplanck-ie/dissectBCL/issues/254) in [maxplanck-ie/dissectBCL](https://github.com/maxplanck-ie/dissectBCL)
-2. 💪 Opened PR [#535](undefined) in [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
-3. ❌ Closed PR [#283](undefined) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-4.  Assigned issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
-5. ❗ Opened issue [#280](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer/issues/280) in [maxplanck-ie/nanoporeReads_dataTransfer](https://github.com/maxplanck-ie/nanoporeReads_dataTransfer)
+1. ❌ Labeled PR [#2](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
+2. ❌ Unlabeled PR [#2](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
+3. 🗣 Commented on [#2](https://github.com/WardDeb/listening_post_1379/pull/2#issuecomment-3532549376) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
+4. 🚀 Published release [v0.1.0](https://github.com/WardDeb/listening_post_1379/releases/tag/v0.1.0) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
+5. ❌ Labeled PR [#2](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
 <!--END_SECTION:activity-->
 
