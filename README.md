@@ -12,10 +12,10 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
-2. 💪 Opened PR [#4](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
-3. ❌ Merged PR [#3](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
-4. 💪 Opened PR [#3](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
-5. ❌ Labeled PR [#2](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
+1. ❌ Merged PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+2. 💪 Opened PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+3. ❌ Merged PR [#4](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
+4. 💪 Opened PR [#4](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
+5. ❌ Merged PR [#3](undefined) in [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
 <!--END_SECTION:activity-->
 
