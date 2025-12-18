@@ -1,5 +1,4 @@
 settings:
-  username: "WardDeb"
   commit_msg: "Update README with the recent activity"
   readme_file: "./README.md"
   whitelisted_events:
