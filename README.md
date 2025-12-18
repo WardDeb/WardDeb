@@ -5,7 +5,7 @@ Working on bioinformatics, statistics, and things in between.
 I'm mainly using Python 🐍 and Rust 🦀, but have experience in R, Julia and SAS as well.
 
 If you want to get in touch:
-✉️ [Email me](mailto:w@rddeboutte.com)
+[✉️ ](mailto:w@rddeboutte.com)
 
 ---
 ### :pager:
