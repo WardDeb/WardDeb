@@ -8,4 +8,6 @@ I mainly use ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-
 ### :pager:
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+2. 💪 Opened PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 <!--END_SECTION:activity-->
