@@ -2,7 +2,25 @@ settings:
   username: "WardDeb"
   commit_msg: "Update README with the recent activity"
   readme_file: "./README.md"
+  whitelisted_events:
+    - create_repo
+    - fork
+    - issues_open
+    - issues_close
+    - pr_open
+    - pr_merge
+    - pr_close
+    - release
   disabled_events:
     - "comments"
   date:
     text: "Last Updated: {DATE} (GMT)"
+  messages:
+    push: "🔥 commited to {REPO}"
+    issue_opened: "🔫 Opened issue {ID} in {REPO}"
+    issue_closed: "🥾 Closed issue {ID} in {REPO}"
+    pr_opened: "🪢 Opened PR {ID} in {REPO}"
+    pr_closed: "🪢 Closed PR {ID} in {REPO}"
+    pr_merged: "🪢 Merged PR {ID} in {REPO}"
+    create_repo: "📔 Created new repository {REPO}"
+    new_release: "🚀 Released {ID} in {REPO}"
