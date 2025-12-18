@@ -9,4 +9,6 @@ I'm mainly using Python 🐍 and Rust 🦀, but have experience in R, Julia and 
 
 My latest work:
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+2. 💪 Opened PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 <!--END_SECTION:activity-->
