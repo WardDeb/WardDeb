@@ -12,4 +12,5 @@ Working on bioinformatics & statistics. 🧬 🧪
 ### :pager:
 
 <!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
