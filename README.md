@@ -12,6 +12,6 @@ If you want to get in touch:
 
 My latest work:
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-2. 💪 Opened PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+1. 💪 Opened PR [#51](undefined) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
+2. ❌ Merged PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 <!--END_SECTION:activity-->
