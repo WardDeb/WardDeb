@@ -12,6 +12,6 @@ If you want to get in touch:
 
 My latest work:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](undefined) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
-2. ❌ Merged PR [#51](undefined) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
+1. ❌ Merged PR [#53](undefined) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
+2. 💪 Opened PR [#53](undefined) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
 <!--END_SECTION:activity-->
