@@ -12,6 +12,6 @@ If you want to get in touch:
 
 My latest work:
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#55](undefined) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
-2. 💪 Opened PR [#55](undefined) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
+1. 🔒 Closed issue [#2](https://github.com/WardDeb/readme_and_act/issues/2) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
+2. 🔒 Closed issue [#3](https://github.com/WardDeb/readme_and_act/issues/3) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 <!--END_SECTION:activity-->
