@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - uses: WardDeb/readme_and_activity@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FILE_NAME: README.md
+          GH_USERNAME: WardDeb
+          MAX_LINES: 5
