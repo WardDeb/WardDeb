@@ -16,3 +16,4 @@ jobs:
           FILE_NAME: README.md
           GH_USERNAME: WardDeb
           MAX_LINES: 5
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
