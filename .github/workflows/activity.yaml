@@ -13,7 +13,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: WardDeb/readme_and_act@main
         env:
-          FILE_NAME: README.md
-          GH_USERNAME: WardDeb
-          MAX_LINES: 5
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
