@@ -10,8 +10,10 @@ If you want to get in touch:
 ---
 ### :pager:
 
-My latest work:
-<!--START_SECTION:activity-->
-1. ❌ Merged PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-2. 💪 Opened PR [#33](undefined) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-<!--END_SECTION:activity-->
+<!--START_SECTION:raa-->
+1. 🪢 PR'ed to, 🎉 released, 🫸 pushed commit(s) to, 🐞 made/updated issue in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
+2. 🪢 PR'ed to [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
+3. 🫸 pushed commit(s) to [WardDeb/WardDeb](https://github.com/WardDeb/WardDeb)
+4. 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
+<!--END_SECTION:raa-->
+

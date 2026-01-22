@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: WardDeb/github-activity-readme@0.1.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
