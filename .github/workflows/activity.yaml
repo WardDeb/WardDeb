@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: WardDeb/readme_and_act@v0.1.0
+      - uses: actions/checkout@v6
+      - uses: WardDeb/readme_and_act@v0.2.0
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
