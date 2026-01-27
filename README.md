@@ -11,7 +11,7 @@ If you want to get in touch:
 ### :pager:
 
 <!--START_SECTION:raa-->
-1. 🪢 PR'ed to, 🎉 released, 🫸 pushed commit(s) to, 🐞 made/updated issue in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
+1. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released, 🐞 made/updated issue in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 2. 🐞 made/updated issue in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
 3. 🫸 pushed commit(s) to [WardDeb/WardDeb](https://github.com/WardDeb/WardDeb)
 4. 🪢 PR'ed to [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
