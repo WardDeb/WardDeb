@@ -11,7 +11,7 @@ If you want to get in touch:
 ### :pager:
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
+1. 🪢 PR'ed to, 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
 2. 🫸 pushed commit(s) to [WardDeb/WardDeb](https://github.com/WardDeb/WardDeb)
 3. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released, 🐞 made/updated issue(s) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 4. 🐞 made/updated issue(s) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
