@@ -10,8 +10,6 @@ If you want to get in touch:
 ---
 ### :pager:
 
-My recent work (automatically created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
-
 <!--START_SECTION:raa-->
 1. 🪢 PR'ed to, 🎉 released, 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
@@ -20,3 +18,4 @@ My recent work (automatically created with [readme_and_act](https://github.com/m
 5. 🪢 PR'ed to [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
 <!--END_SECTION:raa-->
 
+<small>My recent work automatically created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act)</small>
