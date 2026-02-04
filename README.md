@@ -8,7 +8,7 @@ If you want to get in touch:
 [✉️ ](mailto:w@rddeboutte.com)
 
 ---
-### :pager:
+### :pager: Recent work
 
 <!--START_SECTION:raa-->
 1. 🪢 PR'ed to, 🎉 released, 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
@@ -18,4 +18,4 @@ If you want to get in touch:
 5. 🪢 PR'ed to [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
 <!--END_SECTION:raa-->
 
-<small>My recent work automatically created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act)</small>
+(created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
