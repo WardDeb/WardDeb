@@ -13,9 +13,8 @@ If you want to get in touch:
 <!--START_SECTION:raa-->
 1. 🪢 PR'ed to, 🎉 released, 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
-3. 🫸 pushed commit(s) to [WardDeb/WardDeb](https://github.com/WardDeb/WardDeb)
-4. 🐞 made/updated issue(s) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
-5. 🪢 PR'ed to [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
+3. 🐞 made/updated issue(s) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
+4. 🪢 PR'ed to [nanoporetech/modkit](https://github.com/nanoporetech/modkit)
 <!--END_SECTION:raa-->
 
 (created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
