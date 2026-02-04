@@ -1,0 +1,4 @@
+# Repositories to ignore
+IGNORE_REPOS = [
+    "WardDeb/WardDeb"
+]

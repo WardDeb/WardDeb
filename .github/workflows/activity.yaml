@@ -11,6 +11,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
-      - uses: WardDeb/readme_and_act@v0.3.0
+      - uses: WardDeb/readme_and_act@v0.4.0
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
