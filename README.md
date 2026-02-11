@@ -11,7 +11,7 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+1. 🪢 PR'ed to, 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
 3. 🪢 PR'ed to, 🎉 released, 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 4. 🐞 made/updated issue(s) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
