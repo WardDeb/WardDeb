@@ -14,7 +14,6 @@ If you want to get in touch:
 1. 🐞 made/updated issue(s) in, 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [linkapy/linkapy](https://github.com/linkapy/linkapy)
 3. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released, 🐞 made/updated issue(s) in [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
-4. 🐞 made/updated issue(s) in [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes)
 <!--END_SECTION:raa-->
 
 (created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
