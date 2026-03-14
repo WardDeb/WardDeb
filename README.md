@@ -12,7 +12,7 @@ If you want to get in touch:
 
 <!--START_SECTION:raa-->
 1. 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-2. 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
+2. 🫸 pushed commit(s) to [linkapy/linkapy](https://github.com/linkapy/linkapy)
 <!--END_SECTION:raa-->
 
 (created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
