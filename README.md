@@ -11,8 +11,8 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to [linkapy/linkapy](https://github.com/linkapy/linkapy)
-2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+1. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+2. 🫸 pushed commit(s) to [linkapy/linkapy](https://github.com/linkapy/linkapy)
 3. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 4. 🫸 pushed commit(s) to [Akhtar-Lab-MPI-IE/rna_dependent_dna_sequence_specificity_for_x_chromosome_regulation](https://github.com/Akhtar-Lab-MPI-IE/rna_dependent_dna_sequence_specificity_for_x_chromosome_regulation)
 <!--END_SECTION:raa-->
