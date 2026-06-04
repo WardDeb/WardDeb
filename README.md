@@ -11,8 +11,9 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-2. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
+1. 🎉 released [WardDeb/aos_example](https://github.com/WardDeb/aos_example)
+2. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+3. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 <!--END_SECTION:raa-->
 
 (created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
