@@ -11,10 +11,10 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to [WardDeb/scTE](https://github.com/WardDeb/scTE)
-2. 🥄 forked [JiekaiLab/scTE](https://github.com/JiekaiLab/scTE)
-3. 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deepTools](https://github.com/deeptools/deepTools)
-4. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
+1. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
+2. 🫸 pushed commit(s) to [WardDeb/MATES](https://github.com/WardDeb/MATES)
+3. 🥄 forked [mcgilldinglab/MATES](https://github.com/mcgilldinglab/MATES)
+4. 🫸 pushed commit(s) to [linkapy/linkapy](https://github.com/linkapy/linkapy)
 5. 🫸 pushed commit(s) to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 <!--END_SECTION:raa-->
 
