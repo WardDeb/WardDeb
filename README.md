@@ -11,11 +11,11 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to [WardDeb/scTE](https://github.com/WardDeb/scTE)
-2. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
-3. 🫸 pushed commit(s) to [WardDeb/MATES](https://github.com/WardDeb/MATES)
-4. 🥄 forked [mcgilldinglab/MATES](https://github.com/mcgilldinglab/MATES)
-5. 🫸 pushed commit(s) to [linkapy/linkapy](https://github.com/linkapy/linkapy)
+1. 🫸 pushed commit(s) to [linkapy/linkapy](https://github.com/linkapy/linkapy)
+2. 🫸 pushed commit(s) to [WardDeb/scTE](https://github.com/WardDeb/scTE)
+3. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
+4. 🫸 pushed commit(s) to [WardDeb/MATES](https://github.com/WardDeb/MATES)
+5. 🥄 forked [mcgilldinglab/MATES](https://github.com/mcgilldinglab/MATES)
 <!--END_SECTION:raa-->
 
 (created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
