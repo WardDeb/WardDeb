@@ -11,8 +11,8 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
-2. 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🪢 PR'ed to, 🫸 pushed commit(s) to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
 3. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 4. 🫸 pushed commit(s) to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 5. 🫸 pushed commit(s) to [WardDeb/MATES](https://github.com/WardDeb/MATES)
