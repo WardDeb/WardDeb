@@ -11,11 +11,11 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🐞 made/updated issue(s) in, 🪢 PR'ed to, 🫸 pushed commit(s) to [deeptools/deepTools](https://github.com/deeptools/deepTools)
-2. 🎉 released [deeptools/deeptools25](https://github.com/deeptools/deeptools25)
-3. 🐞 made/updated issue(s) in, 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
-4. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
-5. 🫸 pushed commit(s) to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+1. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released [deeptools/deeptools25](https://github.com/deeptools/deeptools25)
+2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released, 🐞 made/updated issue(s) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+3. 🫸 pushed commit(s) to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+4. 🐞 made/updated issue(s) in, 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
+5. 🫸 pushed commit(s) to [WardDeb/readme_and_act](https://github.com/WardDeb/readme_and_act)
 <!--END_SECTION:raa-->
 
 (created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
