@@ -11,8 +11,8 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-2. 🐞 made/updated issue(s) in, 🪢 PR'ed to, 🫸 pushed commit(s) to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in, 🪢 PR'ed to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 3. 🪢 PR'ed to, 🫸 pushed commit(s) to [deeptools/deeptools25](https://github.com/deeptools/deeptools25)
 4. 🫸 pushed commit(s) to [WardDeb/aos_example](https://github.com/WardDeb/aos_example)
 5. 🐞 made/updated issue(s) in [maxplanck-ie/BigRedButton](https://github.com/maxplanck-ie/BigRedButton)
