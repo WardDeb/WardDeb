@@ -11,7 +11,7 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
+1. 🐞 made/updated issue(s) in, 🫸 pushed commit(s) to, 🪢 PR'ed to [linkapy/linkapy](https://github.com/linkapy/linkapy)
 2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
 3. 🪢 PR'ed to, 🫸 pushed commit(s) to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 4. 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deeptools25](https://github.com/deeptools/deeptools25)
