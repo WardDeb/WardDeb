@@ -12,8 +12,8 @@ If you want to get in touch:
 
 <!--START_SECTION:raa-->
 1. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
-2. 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deeptools4_benchmark](https://github.com/deeptools/deeptools4_benchmark)
-3. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
+3. 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deeptools4_benchmark](https://github.com/deeptools/deeptools4_benchmark)
 4. 🫸 pushed commit(s) to [linkapy/linkapy](https://github.com/linkapy/linkapy)
 <!--END_SECTION:raa-->
 
