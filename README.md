@@ -11,7 +11,7 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🎉 released, 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deeptools4_benchmark](https://github.com/deeptools/deeptools4_benchmark)
+1. 🫸 pushed commit(s) to, 🎉 released, 🪢 PR'ed to [deeptools/deeptools4_benchmark](https://github.com/deeptools/deeptools4_benchmark)
 2. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
 3. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 4. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🐞 made/updated issue(s) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
