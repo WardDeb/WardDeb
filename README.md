@@ -11,8 +11,8 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to [WardDeb/scTE](https://github.com/WardDeb/scTE)
-2. 🪢 PR'ed to, 🐞 made/updated issue(s) in, 🫸 pushed commit(s) to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in, 🪢 PR'ed to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🫸 pushed commit(s) to [WardDeb/scTE](https://github.com/WardDeb/scTE)
 3. 🫸 pushed commit(s) to, 🎉 released, 🪢 PR'ed to [deeptools/deeptools4_benchmark](https://github.com/deeptools/deeptools4_benchmark)
 4. 🫸 pushed commit(s) to, 🪢 PR'ed to, 🎉 released [WardDeb/listening_post_1379](https://github.com/WardDeb/listening_post_1379)
 5. 🫸 pushed commit(s) to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
