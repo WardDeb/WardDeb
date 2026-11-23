@@ -11,11 +11,11 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🪢 PR'ed to, 🫸 pushed commit(s) to, 🐞 made/updated issue(s) in [deeptools/deepTools](https://github.com/deeptools/deepTools)
-2. 🪢 PR'ed to, 🥄 forked [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
-3. 🫸 pushed commit(s) to [MisterSheikh/deepTools](https://github.com/MisterSheikh/deepTools)
-4. 🫸 pushed commit(s) to [cindykrafft/deepTools](https://github.com/cindykrafft/deepTools)
-5. 🫸 pushed commit(s) to [WardDeb/scTE](https://github.com/WardDeb/scTE)
+1. 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+2. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
+3. 🪢 PR'ed to, 🥄 forked [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+4. 🫸 pushed commit(s) to [MisterSheikh/deepTools](https://github.com/MisterSheikh/deepTools)
+5. 🫸 pushed commit(s) to [cindykrafft/deepTools](https://github.com/cindykrafft/deepTools)
 <!--END_SECTION:raa-->
 
 (created with [readme_and_act](https://github.com/marketplace/actions/readme_and_act))
