@@ -11,7 +11,7 @@ If you want to get in touch:
 ### :pager: Recent work
 
 <!--START_SECTION:raa-->
-1. 🫸 pushed commit(s) to, 🪢 PR'ed to [deeptools/deepTools](https://github.com/deeptools/deepTools)
+1. 🪢 PR'ed to, 🫸 pushed commit(s) to [deeptools/deepTools](https://github.com/deeptools/deepTools)
 2. 🫸 pushed commit(s) to, 🪢 PR'ed to [maxplanck-ie/ATACofthesnake](https://github.com/maxplanck-ie/ATACofthesnake)
 3. 🪢 PR'ed to, 🥄 forked [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
 4. 🫸 pushed commit(s) to [MisterSheikh/deepTools](https://github.com/MisterSheikh/deepTools)
